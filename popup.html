@@ -1,0 +1,24 @@
+<html>
+<head>
+	<link rel="stylesheet" href="/css/popup.css" type="text/css" charset="utf-8" />
+</head>
+<body>
+	<div id="content">
+			<div><label>__MSG_language__</label><select id="language">
+					<option value="en" selected>__MSG_english__</option>
+					<option value="fr">__MSG_french__</option>
+				</select>
+			</div>
+			<div><label>__MSG_minLength__</label><input id="minLength" min="7" max="99"type="number" value="8"></input></div>
+			<div><label>__MSG_maxLength__</label><input id="maxLength" min="9" max="99" type="number" value="15"></input></div>
+			<div><input id="numbers" type="checkbox" value="true"></input><label for="numbers">__MSG_useNumbers__</label></div>
+			<div><input id="specials" type="checkbox" value="true"></input><label for="specials">__MSG_useSpecials__</label></div>
+			<div><input id="upper" type="checkbox" value="true"></input><label for="upper">__MSG_useUppercase__</label></div>
+			<div><button disabled id="generate">__MSG_generate__</button></div>
+			<hr />
+			<div><textarea readonly id="password"></textarea></div>
+	</div>
+</body>
+<script type="text/javascript" src="popup.js"></script>
+<script type="text/javascript" src="i18n.js"></script>
+</html>

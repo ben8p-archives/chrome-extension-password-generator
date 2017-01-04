@@ -1,0 +1,18 @@
+body {
+	background-color:#ebeff9;
+	font-family:arial,sans-serif;
+	font-size:13px;
+}
+#content {
+	width: 250px
+}
+label {
+	width: 150px;
+}
+label,
+input {
+	float: left;
+}
+#content div {
+	clear: both;
+}

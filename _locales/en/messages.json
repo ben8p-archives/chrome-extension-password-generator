@@ -1,0 +1,36 @@
+{
+	"name": {
+		"message": "Password Generator"
+	},
+	"description": {
+		"message": "Generate secure password you can remember"
+	},
+	"minLength": {
+		"message": "Minimal length :"
+	},
+	"language": {
+		"message": "Language of the password :"
+	},
+	"english": {
+		"message": "English"
+	},
+	"french": {
+		"message": "Fran&ccedil;ais"
+	},
+	"maxLength": {
+		"message": "Maximal length :"
+	},
+	"useNumbers": {
+		"message": "Use numbers"
+	},
+	"useSpecials": {
+		"message": "Use special characters"
+	},
+	"useUppercase": {
+		"message": "Use upper case letters"
+	},
+	"generate": {
+		"message": "Generate the password"
+	}
+
+}
