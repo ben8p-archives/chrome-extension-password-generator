@@ -6,7 +6,7 @@ Can generate in English and in French
 CHROME WEB STORE
 ================
 
-https://chrome.google.com/webstore/detail/website-ip/agbkjcoclkflcpkognkhjkllhimlpice
+https://chrome.google.com/webstore/detail/password-generator/bbonfafamdpcjkfhkpjnejhihapadkjm
 
 FEATURES
 ========
